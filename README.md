@@ -1,6 +1,8 @@
 ## Moving things from a place to another place.
 
-![schema](schema.jpg)
+<p align="center">
+  <img src="schema.jpg">
+</p>
 
 ### Purpose
 
