@@ -13,12 +13,29 @@ This repos is gonna making things accords themselves by assembling the tasks to 
 ### Syntax
 
 ```
-  #team<int>   Name of the team, index matches /[1-4]/
-  #p<int>      Name of the place, index matches /[1-4]/
-  !J           Person 1 who want things to be moved
-  !M           Person 2 who want things to be moved
-  !<int>       People helping to move things. Index matches /[0-9]/
+ #team<int>   Name of the team, index matches /[1-4]/
+ #p<int>      Name of the place, index matches /[1-4]/
+ !J           Person 1 who want things to be moved
+ !M           Person 2 who want things to be moved
+ !<int>       People helping to move things. Index matches /[a-Z]*/
                See "People matching" section below
+```
+
+### Places
+
+```
+ #p1  Place where !J lives
+ #p2  Place where !M lives
+ #p3  Place where !P and !Y live (and where !J and !M will live)
+```
+
+### Initial teams
+
+```
+ #team1  !M, !B
+ #team2  !J, !H
+ #team3  !R, !Mie
+ #team4  !P, !Y
 ```
 
 ### Map of actions, indexed by timestamp
@@ -152,6 +169,172 @@ This repos is gonna making things accords themselves by assembling the tasks to 
         <code>#p4</code> :package: :arrow_up: <br>
         Move things from floor to up
       </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>13:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>14:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>15:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>16:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>17:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>18:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <code>19:00</code>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+### Earnings
+
+Each people in each team got **5 Yolopoints™** they can use to buy food & drink during the day.
+Additional **Yolopoints™** can be earned by accomplishing some particular tasks, and according to the difficulty of the given missions.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Cost in Yolopoints™</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="background: #666; color: white">
+        :tropical_drink: <strong>Drinks</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Water bottle</td>
+      <td align="center"><strong>0.5</strong></td>
+    </tr>
+    <tr>
+      <td>Basic soda (including Coca Cola, Fanta, etc.)</td>
+      <td align="center"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td>Orangina</td>
+      <td align="center"><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td>Beer</td>
+      <td align="center"><strong>2</strong></td>
+    </tr>
+
+    <tr>
+      <td colspan="2" align="center" style="background: #666; color: white">
+        :hamburger: <strong>Food</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Simple bread</td>
+      <td align="center"><strong>0.5</strong></td>
+    </tr>
+    <tr>
+      <td>Bag of chips (including flavored)</td>
+      <td align="center"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td>Pringles</td>
+      <td align="center"><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td>Triangular sandwich (including <em>Hallal</em>)</td>
+      <td align="center"><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td>Pasta box (cold)</td>
+      <td align="center"><strong>3</strong></td>
+    </tr>
+    <tr>
+      <td>Sushis</td>
+      <td align="center"><strong>6</strong></td>
     </tr>
 
   </tbody>
