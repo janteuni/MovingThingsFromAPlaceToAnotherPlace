@@ -149,8 +149,8 @@ This repos is gonna making things accords themselves by assembling the tasks to 
         Move things from up to floor
       </td>
       <td>
-        <code>#p4</code> :no_mouth: <br>
-        Do absolutely nothing
+        <code>#p4</code> :package: :arrow_up: <br>
+        Move things from floor to up
       </td>
     </tr>
 
