@@ -58,20 +58,16 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>09:00</code>
       </td>
       <td>
-        <code>#p1</code> :flushed: <br>
-        Wake up
+        <code>#p1</code> :flushed:
       </td>
       <td>
-        <code>#p2</code> :flushed: <br>
-        Wake up
+        <code>#p2</code> :flushed:
       </td>
       <td>
-        <code>#p3</code> :sleeping: <br>
-        Sleep
+        <code>#p3</code> :sleeping:
       </td>
       <td>
-        <code>#p4</code> :sleeping: <br>
-        Sleep
+        <code>#p4</code> :sleeping:
       </td>
     </tr>
 
@@ -79,20 +75,17 @@ This repo is about making things work out by matching tasks to be done with peop
       <td>
         <code>10:00</code>
       </td>
-      <td> :car: <br>
-        Go rent the car
+      <td>
+        :car:
       </td>
       <td>
-        <code>#p2</code> :package: :arrow_down: <br>
-        Move things from up to floor
+        <code>#p2</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p3</code> :flushed: <br>
-        Wake up
+        <code>#p3</code> :flushed:
       </td>
       <td>
-        <code>#p4</code> :flushed: <br>
-        Wake up
+        <code>#p4</code> :flushed:
       </td>
     </tr>
 
@@ -101,25 +94,21 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>11:00</code>
       </td>
       <td>
-        <code>#p2</code> :package: :arrow_right: <br>
-        Move things from floor to car
+        <code>#p2</code> :package: :arrow_right:
       </td>
       <td>
-        <code>#p2</code> :package: :arrow_right: <br>
-        Move things from floor to car
+        <code>#p2</code> :package: :arrow_right:
       </td>
       <td>
-        :trolleybus: <br>
-        Move from one place to another
+        :trolleybus:
       </td>
       <td>
-        <code>#p4</code> :no_mouth: <br>
-        Do absolutely nothing
+        <code>#p4</code> :no_mouth:
       </td>
     </tr>
 
     <tr>
-      <td>
+      <td align="center">
         :arrows_counterclockwise:
       </td>
       <td colspan="4" align="center">
@@ -133,20 +122,16 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>12:00</code>
       </td>
       <td>
-        :car: <br>
-        Move from one place to another
+        :car:
       </td>
       <td>
-        <code>#p1</code> :package: :arrow_down: <br>
-        Move things from up to floor
+        <code>#p1</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p1</code> :package: :arrow_down: <br>
-        Move things from up to floor
+        <code>#p1</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p4</code> :no_mouth: <br>
-        Do absolutely nothing
+        <code>#p4</code> :no_mouth:
       </td>
     </tr>
 
@@ -155,20 +140,16 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>12:30</code>
       </td>
       <td>
-        <code>#p4</code> :package: :arrow_up: <br>
-        Move things from floor to up
+        <code>#p4</code> :package: :arrow_up:
       </td>
       <td>
-        <code>#p1</code> :package: :arrow_down: <br>
-        Move things from up to floor
+        <code>#p1</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p1</code> :package: :arrow_down: <br>
-        Move things from up to floor
+        <code>#p1</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p4</code> :package: :arrow_up: <br>
-        Move things from floor to up
+        <code>#p4</code> :package: :arrow_up:
       </td>
     </tr>
 
