@@ -1,4 +1,4 @@
-## Moving things from a place to another place.
+## Moving things from one place to another.
 
 <p align="center">
   <img src="schema.jpg">
@@ -7,14 +7,14 @@
 ### Purpose
 
 Purposely, the goal of this repository is to organize things to make them fit the way they have to be fitted.
-Two people needs to move things from a place (more precisely: two places) into another completely different place.
-This repos is gonna making things accords themselves by assembling the tasks to be done and the people who agree to do them.
+Two people need to move things from a place (more precisely: two places) to another completely different place.
+This repo is about making things work out by matching tasks to be done with people who agree to do them.
 
 ### Syntax
 
 ```
- #team<int>   Name of the team, index matches /[1-4]/
- #p<int>      Name of the place, index matches /[1-4]/
+ #team<int>   Team name, index matches /[1-4]/
+ #p<int>      Place name, index matches /[1-4]/
  !J           Person 1 who want things to be moved
  !M           Person 2 who want things to be moved
  !<int>       People helping to move things. Index matches /[a-Z]*/
@@ -274,7 +274,7 @@ This repos is gonna making things accords themselves by assembling the tasks to 
 
 ### Earnings
 
-Each people in each team got **5 Yolopoints™** they can use to buy food & drink during the day.
+Each participant gets **5 Yolopoints™** that can be used to buy food & drink during the day.
 Additional **Yolopoints™** can be earned by accomplishing some particular tasks, and according to the difficulty of the given missions.
 
 <table>
