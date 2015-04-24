@@ -27,6 +27,7 @@ This repo is about making things work out by matching tasks to be done with peop
  #p1  Place where !J lives
  #p2  Place where !M lives
  #p3  Place where !P and !Y live (and where !J and !M will live)
+ #p4  Place where !F lives
 ```
 
 ### Initial teams
@@ -49,6 +50,7 @@ This repo is about making things work out by matching tasks to be done with peop
       <th><code>#team2</code></th>
       <th><code>#team3</code></th>
       <th><code>#team4</code></th>
+      <th><code>#team5</code></th>
     </tr>
   </thead>
   <tbody>
@@ -69,6 +71,9 @@ This repo is about making things work out by matching tasks to be done with peop
       <td>
         <code>#p4</code> :sleeping:
       </td>
+      <td>
+        <code>#p5</code> :sleeping:
+      </td>
     </tr>
 
     <tr>
@@ -87,6 +92,9 @@ This repo is about making things work out by matching tasks to be done with peop
       <td>
         <code>#p4</code> :flushed:
       </td>
+      <td>
+        <code>#p5</code> :sleeping:
+      </td>
     </tr>
 
     <tr>
@@ -104,6 +112,9 @@ This repo is about making things work out by matching tasks to be done with peop
       </td>
       <td>
         <code>#p4</code> :no_mouth:
+      </td>
+      <td>
+        <code>#p5</code> :flushed:
       </td>
     </tr>
 
@@ -133,6 +144,9 @@ This repo is about making things work out by matching tasks to be done with peop
       <td>
         <code>#p4</code> :no_mouth:
       </td>
+      <td>
+        :trolleybus:
+      </td>
     </tr>
 
     <tr>
@@ -151,11 +165,16 @@ This repo is about making things work out by matching tasks to be done with peop
       <td>
         <code>#p4</code> :package: :arrow_up:
       </td>
+      <td>
+        <code>#p4</code> :package: :arrow_up:
+      </td>
     </tr>
 
     <tr>
       <td>
         <code>13:00</code>
+      </td>
+      <td>
       </td>
       <td>
       </td>
@@ -179,11 +198,15 @@ This repo is about making things work out by matching tasks to be done with peop
       </td>
       <td>
       </td>
+      <td>
+      </td>
     </tr>
 
     <tr>
       <td>
         <code>15:00</code>
+      </td>
+      <td>
       </td>
       <td>
       </td>
@@ -207,11 +230,15 @@ This repo is about making things work out by matching tasks to be done with peop
       </td>
       <td>
       </td>
+      <td>
+      </td>
     </tr>
 
     <tr>
       <td>
         <code>17:00</code>
+      </td>
+      <td>
       </td>
       <td>
       </td>
@@ -235,11 +262,15 @@ This repo is about making things work out by matching tasks to be done with peop
       </td>
       <td>
       </td>
+      <td>
+      </td>
     </tr>
 
     <tr>
       <td>
         <code>19:00</code>
+      </td>
+      <td>
       </td>
       <td>
       </td>
