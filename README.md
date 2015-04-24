@@ -123,8 +123,8 @@ This repo is about making things work out by matching tasks to be done with peop
         :arrows_counterclockwise:
       </td>
       <td colspan="4" align="center">
-        <strong>!M</strong> switches from <strong>#team2</strong> to <strong>#team1</strong> and take the :bus: to go in `#p1`<br>
-        <strong>!J</strong> switches from <strong>#team1</strong> to <strong>#team2</strong>
+        <strong>!M</strong> switches from <strong>#team2</strong> to <strong>#team1</strong><br>
+        <strong>!J</strong> switches from <strong>#team1</strong> to <strong>#team2</strong> and take the :bus: to go in <code>#p1</code>
       </td>
     </tr>
 
