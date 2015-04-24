@@ -32,10 +32,11 @@ This repo is about making things work out by matching tasks to be done with peop
 ### Initial teams
 
 ```
- #team1  !M, !B
- #team2  !J, !H
+ #team1  !J, !H
+ #team2  !M, !B
  #team3  !R, !Mie
  #team4  !P, !Y
+ #team5  !F
 ```
 
 ### Map of actions, indexed by timestamp
