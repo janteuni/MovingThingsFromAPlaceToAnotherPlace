@@ -282,7 +282,7 @@ Additional **Yolopoints™** can be earned by accomplishing some particular task
     </tr>
     <tr>
       <td>Orangina</td>
-      <td align="center"><strong>2</strong></td>
+      <td align="center"><strong>1.5</strong></td>
     </tr>
     <tr>
       <td>Beer</td>
