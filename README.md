@@ -27,7 +27,8 @@ This repo is about making things work out by matching tasks to be done with peop
  #p1  Place where !J lives
  #p2  Place where !M lives
  #p3  Place where !P and !Y live (and where !J and !M will live)
- #p4  Place where !F lives
+ #p4  Place where !R and !Mie live
+ #p5  Place where !F lives
 ```
 
 ### Initial teams
@@ -66,10 +67,10 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>#p2</code> :flushed:
       </td>
       <td>
-        <code>#p3</code> :sleeping:
+        <code>#p4</code> :sleeping:
       </td>
       <td>
-        <code>#p4</code> :sleeping:
+        <code>#p3</code> :sleeping:
       </td>
       <td>
         <code>#p5</code> :sleeping:
@@ -87,10 +88,10 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>#p2</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p3</code> :flushed:
+        <code>#p4</code> :flushed:
       </td>
       <td>
-        <code>#p4</code> :flushed:
+        <code>#p3</code> :flushed:
       </td>
       <td>
         <code>#p5</code> :sleeping:
@@ -111,7 +112,7 @@ This repo is about making things work out by matching tasks to be done with peop
         :trolleybus:
       </td>
       <td>
-        <code>#p4</code> :no_mouth:
+        <code>#p3</code> :no_mouth:
       </td>
       <td>
         <code>#p5</code> :flushed:
@@ -142,7 +143,7 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>#p1</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p4</code> :no_mouth:
+        <code>#p3</code> :no_mouth:
       </td>
       <td>
         :trolleybus:
@@ -154,7 +155,7 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>12:30</code>
       </td>
       <td>
-        <code>#p4</code> :package: :arrow_up:
+        <code>#p3</code> :package: :arrow_up:
       </td>
       <td>
         <code>#p1</code> :package: :arrow_down:
@@ -163,10 +164,10 @@ This repo is about making things work out by matching tasks to be done with peop
         <code>#p1</code> :package: :arrow_down:
       </td>
       <td>
-        <code>#p4</code> :package: :arrow_up:
+        <code>#p3</code> :package: :arrow_up:
       </td>
       <td>
-        <code>#p4</code> :package: :arrow_up:
+        <code>#p3</code> :package: :arrow_up:
       </td>
     </tr>
 
@@ -328,6 +329,10 @@ Additional **Yolopoints™** can be earned by accomplishing some particular task
     <tr>
       <td>Simple bread</td>
       <td align="center"><strong>0.5</strong></td>
+    </tr>
+    <tr>
+      <td>Chocolate bar (non gluten-free)</td>
+      <td align="center"><strong>1</strong></td>
     </tr>
     <tr>
       <td>Bag of chips (including flavored)</td>
