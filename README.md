@@ -320,6 +320,10 @@ Additional **Yolopoints™** can be earned by accomplishing some particular task
       <td>Beer</td>
       <td align="center"><strong>2</strong></td>
     </tr>
+    <tr>
+      <td>Red bull</td>
+      <td align="center"><strong>2</strong></td>
+    </tr>
 
     <tr>
       <td colspan="2" align="center" style="background: #666; color: white">
